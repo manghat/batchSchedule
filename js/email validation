@@ -1,0 +1,2 @@
+var jqxhr = $.get( "http://api.emailvalidator.co?AccessKey=94f467cf.eae8.4fad.9c3e.dd75ef06a6e9&EmailAddress=ashwin.manghat@jamboreeindia.com&VerificationLevel=4"); console.log(jqxhr)
+  
